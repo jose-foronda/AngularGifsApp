@@ -1,6 +1,6 @@
 Lessons Angular Cero a Experto
 
-82. GifsModule y sus componentes
+84. GifsService
 
 
 
