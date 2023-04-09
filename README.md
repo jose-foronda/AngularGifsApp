@@ -1,6 +1,6 @@
 Lessons Angular Cero a Experto
 
-87. Realizar una petición HTTP
+88. Mostrar los resultados en pantalla
 
 
 
