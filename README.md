@@ -1,6 +1,6 @@
 Lessons Angular Cero a Experto
 
-91. Cargar imágenes automáticamente
+92. Obtener imágenes desde el sidebar
 
 
 
