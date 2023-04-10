@@ -1,6 +1,6 @@
 Lessons Angular Cero a Experto
 
-90. LocalStorage
+91. Cargar imágenes automáticamente
 
 
 
