@@ -1,6 +1,6 @@
 Lessons Angular Cero a Experto
 
-92. Obtener imágenes desde el sidebar
+93. HttpParams
 
 
 
